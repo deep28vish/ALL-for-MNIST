@@ -28,9 +28,7 @@ This Repository contains the folowing files:
 For each method we have 2 files, one is simple .py file without any visualization and another is .ipynb notebook with details and visualization for the same.
 "mnist_CNN_FlowChart.jpg" contains the basic understanding of how data(image) is processed and fed into the CNN which is user defined.
 
-lollll
-
-[IMG] (https://github.com/deep28vish/ALL-for-MNIST/blob/master/mnist_CNN_FlowChart.jpg?raw=true)
+![IMG] (https://github.com/deep28vish/ALL-for-MNIST/blob/master/mnist_CNN_FlowChart.jpg?raw=true)
 ## Acknowledgments
 
 * Inspiration- [sentdex](https://pythonprogramming.net/)
